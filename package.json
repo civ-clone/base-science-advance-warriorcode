@@ -13,7 +13,8 @@
   "files": [
     "WarriorCode.js",
     "WarriorCode.d.ts",
-    "WarriorCode.js.map"
+    "WarriorCode.js.map",
+    "WarriorCode.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
